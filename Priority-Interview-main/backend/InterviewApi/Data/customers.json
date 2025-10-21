@@ -1,0 +1,74 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "registrationDate": "2024-01-15T10:30:00Z",
+      "totalPurchases": 15
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "registrationDate": "2024-02-20T14:45:00Z",
+      "totalPurchases": 8
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "registrationDate": "2024-01-10T09:15:00Z",
+      "totalPurchases": 25
+    },
+    {
+      "id": 4,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "registrationDate": "2024-03-05T16:20:00Z",
+      "totalPurchases": 3
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "registrationDate": "2024-01-25T11:00:00Z",
+      "totalPurchases": 18
+    },
+    {
+      "id": 6,
+      "name": "Lisa Davis",
+      "email": "lisa.davis@example.com",
+      "registrationDate": "2024-02-14T13:30:00Z",
+      "totalPurchases": 12
+    },
+    {
+      "id": 7,
+      "name": "Tom Miller",
+      "email": "tom.miller@example.com",
+      "registrationDate": "2024-01-30T15:45:00Z",
+      "totalPurchases": 7
+    },
+    {
+      "id": 8,
+      "name": "Emma Garcia",
+      "email": "emma.garcia@example.com",
+      "registrationDate": "2024-02-28T12:15:00Z",
+      "totalPurchases": 22
+    },
+    {
+      "id": 9,
+      "name": "ducu",
+      "email": "ducu@mail.com",
+      "registrationDate": "2025-10-21T09:03:11.1124456Z",
+      "totalPurchases": 0
+    },
+    {
+      "id": 10,
+      "name": "test",
+      "email": "test@mail.com",
+      "registrationDate": "2025-10-21T10:04:24.0456825Z",
+      "totalPurchases": 0
+    }
+  ]
+}

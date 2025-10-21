@@ -1,0 +1,39 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Grand Hotel",
+      "location": "Downtown",
+      "rating": 4.5,
+      "description": "Luxury hotel in the heart of the city"
+    },
+    {
+      "id": 2,
+      "name": "Seaside Resort",
+      "location": "Beachfront",
+      "rating": 4.2,
+      "description": "Beautiful resort with ocean views"
+    },
+    {
+      "id": 3,
+      "name": "Mountain Lodge",
+      "location": "Mountain View",
+      "rating": 4.0,
+      "description": "Cozy lodge in the mountains"
+    },
+    {
+      "id": 4,
+      "name": "Business Inn",
+      "location": "Business District",
+      "rating": 3.8,
+      "description": "Modern hotel for business travelers"
+    },
+    {
+      "id": 5,
+      "name": "Garden Hotel",
+      "location": "City Park",
+      "rating": 4.3,
+      "description": "Peaceful hotel surrounded by gardens"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "visitations": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "hotelId": 1,
+      "visitDate": "2024-01-07T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "hotelId": 1,
+      "visitDate": "2024-01-14T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "customerId": 1,
+      "hotelId": 1,
+      "visitDate": "2024-01-21T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "customerId": 1,
+      "hotelId": 1,
+      "visitDate": "2024-01-28T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "customerId": 2,
+      "hotelId": 2,
+      "visitDate": "2024-02-03T14:00:00Z"
+    },
+    {
+      "id": 6,
+      "customerId": 2,
+      "hotelId": 2,
+      "visitDate": "2024-02-10T14:00:00Z"
+    },
+    {
+      "id": 7,
+      "customerId": 2,
+      "hotelId": 2,
+      "visitDate": "2024-02-17T14:00:00Z"
+    },
+    {
+      "id": 8,
+      "customerId": 2,
+      "hotelId": 2,
+      "visitDate": "2024-02-24T14:00:00Z"
+    },
+    {
+      "id": 9,
+      "customerId": 1,
+      "hotelId": 3,
+      "visitDate": "2024-01-15T16:00:00Z"
+    },
+    {
+      "id": 10,
+      "customerId": 2,
+      "hotelId": 4,
+      "visitDate": "2024-02-05T09:00:00Z"
+    },
+    {
+      "id": 11,
+      "customerId": 1,
+      "hotelId": 5,
+      "visitDate": "2024-01-20T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "customerId": 2,
+      "hotelId": 5,
+      "visitDate": "2024-02-12T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "customerId": 1,
+      "hotelId": 3,
+      "visitDate": "2025-10-22T00:00:00Z"
+    },
+    {
+      "id": 14,
+      "customerId": 1,
+      "hotelId": 3,
+      "visitDate": "2025-10-22T00:00:00Z"
+    },
+    {
+      "id": 15,
+      "customerId": 10,
+      "hotelId": 1,
+      "visitDate": "2025-10-23T00:00:00Z"
+    },
+    {
+      "id": 16,
+      "customerId": 10,
+      "hotelId": 4,
+      "visitDate": "2025-10-30T00:00:00Z"
+    },
+    {
+      "id": 17,
+      "customerId": 10,
+      "hotelId": 5,
+      "visitDate": "2025-10-21T00:00:00Z"
+    }
+  ]
+}
